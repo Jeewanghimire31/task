@@ -1,0 +1,20 @@
+.homepage_section{
+
+    // position: relative;
+    .navbar_section{
+       margin-top: 5rem;
+
+        .service_list{
+            ul{
+                display: flex;
+                border: .1rem solid black;
+
+                li{
+                    padding: .5rem;
+                    list-style: none;
+                }
+            }
+
+        }
+    }
+}
